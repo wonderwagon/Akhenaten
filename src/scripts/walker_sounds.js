@@ -4,27 +4,27 @@ walker_sounds = [
   // apothecary
   {type: "apothecary_malaria_not_a_problem",             sound:"apothecary_e02.wav"},
   {type: "apothecary_malaria_outbreak_could_strike",     sound:"apothecary_e03.wav"},
- // artisan
- {type: "artisan_work_my_tools_need_for_monument", 			sound:"artisan_e01.wav"},
- {type: "artisan_work_i_write_history_of_egypt", 				sound:"artisan_e02.wav"},
- // barge
- {type: "barge_have_no_place_for_dock", 								sound:"barge_e01.wav"},
- {type: "barge_docked_wait_for_dockpushers", 						sound:"barge_e02.wav"},
- {type: "barge_city_not_trades", 												sound:"barge_e03.wav"},
- {type: "barge_i_like_to_trage", 												sound:"barge_e04.wav"},
- {type: "barge_amazing_trades", 												sound:"barge_e05.wav"},
+  // artisan
+  {type: "artisan_work_my_tools_need_for_monument",      sound:"artisan_e01.wav"},
+  {type: "artisan_work_i_write_history_of_egypt",        sound:"artisan_e02.wav"},
+  // barge
+  {type: "barge_have_no_place_for_dock",                 sound:"barge_e01.wav"},
+  {type: "barge_docked_wait_for_dockpushers",            sound:"barge_e02.wav"},
+  {type: "barge_city_not_trades",                        sound:"barge_e03.wav"},
+  {type: "barge_i_like_to_trage",                        sound:"barge_e04.wav"},
+  {type: "barge_amazing_trades",                         sound:"barge_e05.wav"},
   // brick
   {type: "brick_bricklaying_time_at_monument",           sound:"brick_e01.wav"},
   {type: "brick_monument_will_be_strong",                sound:"brick_e02.wav"},
- // caravan
- {type: "caravan_city_not_trades", 											sound:"caravan_e01.wav"},
- {type: "caravan_buy_for_less_sell_for_more", 					sound:"caravan_e02.wav"},
- {type: "caravan_its_my_life", 													sound:"caravan_e03.wav"},
- {type: "caravan_amazing_trades", 											sound:"caravan_e04.wav"},
- {type: "caravan_bad_trades", 													sound:"caravan_e05.wav"},
- // carpenter
- {type: "carpenter_work_my_tools_need_for_monument", 		sound:"carpenter_e01.wav"},
- {type: "carpenter_this_monument_will_be_short", 				sound:"carpenter_e02.wav"},
+  // caravan
+  {type: "caravan_city_not_trades",                      sound:"caravan_e01.wav"},
+  {type: "caravan_buy_for_less_sell_for_more",           sound:"caravan_e02.wav"},
+  {type: "caravan_its_my_life",                          sound:"caravan_e03.wav"},
+  {type: "caravan_amazing_trades",                       sound:"caravan_e04.wav"},
+  {type: "caravan_bad_trades",                           sound:"caravan_e05.wav"},
+  // carpenter
+  {type: "carpenter_work_my_tools_need_for_monument",    sound:"carpenter_e01.wav"},
+  {type: "carpenter_this_monument_will_be_short",        sound:"carpenter_e02.wav"},
   // cartpusher
   {type: "cartpusher_no_one_available_to_unload",        sound:"cartpusher_e01.wav"},
   {type: "cartpusher_no_one_can_accept_these_goods",     sound:"cartpusher_e02.wav"},
@@ -119,9 +119,9 @@ walker_sounds = [
   {type: "fishing_sound1",                               sound:"fishing_e01.wav"},
   {type: "fishing_sound2",                               sound:"fishing_e02.wav"},
   {type: "fishing_sound3",                               sound:"fishing_e03.wav"},
- // governor
- {type: "governor_city_left_much_nobles", 							sound:"governor_e01.WAV"},
- {type: "governor_festival_was_near", 									sound:"governor_e02.wav"},
+  // governor
+  {type: "governor_city_left_much_nobles",               sound:"governor_e01.WAV"},
+  {type: "governor_festival_was_near",                   sound:"governor_e02.wav"},
   // guard
   {type: "guard_no_enemies_sighted",                     sound:"guard_e01.wav"},
   {type: "guard_ready_approaching_enemy",                sound:"guard_e02.wav"},
@@ -165,7 +165,7 @@ walker_sounds = [
   {type: "Labor_low_entertainment",                      sound:"Labor_g08.wav"},
   {type: "Labor_city_is_ok",                             sound:"Labor_g09.wav"},
   {type: "Labor_city_is_amazing",                        sound:"Labor_g10.wav"},
- // library
+  // library
   {type: "library_read_about_festivals",                 sound: "library_e01.wav"},
   {type: "library_people_are_sick",                      sound: "library_g01.wav"},
   {type: "library_no_food_in_city",                      sound: "library_g02.wav"},
@@ -223,27 +223,27 @@ walker_sounds = [
   {type: "musician_low_entertainment",                   sound: "musician_g08.wav"},
   {type: "musician_city_is_ok",                          sound: "musician_g09.wav"},
   {type: "musician_city_is_amazing",                     sound: "musician_g10.wav"},
- // pharaoh
+  // pharaoh
   {type: "pharaoh_how_impertinent",                      sound: "pharaoh_e01.wav"},
- // policeman
- {type: "policeman_low_crime_level", 										sound: "police_e01.WAV"},
- {type: "policeman_usual_crime_level", 									sound: "police_e02.WAV"},
- {type: "policeman_very_low_crime_level", 							sound: "police_e03.WAV"},
- {type: "policeman_iam_too_busy_that_talk", 						sound: "police_e04.WAV"},
- {type: "policeman_i_hope_my_work_is_need", 						sound: "police_e05.WAV"},
- {type: "policeman_city_not_safety", 										sound: "police_e06.WAV"},
- {type: "policeman_need_workers", 											sound: "police_e07.WAV"},
- {type: "policeman_enemies_are_coming", 								sound: "police_e08.WAV"},
- {type: "policeman_desease_can_start_at_any_moment", 		sound: "police_g01.WAV"},
- {type: "policeman_no_food_in_city", 										sound: "police_g02.WAV"},
- {type: "policeman_no_army", 														sound: "police_g03.WAV"},
- {type: "policeman_need_more_workers", 									sound: "police_g04.WAV"},
- {type: "policeman_gods_are_angry", 										sound: "police_g05.WAV"},
- {type: "policeman_no_army_2", 													sound: "police_g06.wav"},
- {type: "policeman_much_unemployments", 								sound: "police_g07.WAV"},
- {type: "policeman_low_entertainment", 									sound: "police_g08.WAV"},
- {type: "policeman_city_is_good", 											sound: "police_g09.WAV"},
- {type: "policeman_city_is_amazing", 										sound: "police_g10.WAV"},
+  // policeman
+  {type: "policeman_low_crime_level",                    sound: "police_e01.WAV"},
+  {type: "policeman_usual_crime_level",                  sound: "police_e02.WAV"},
+  {type: "policeman_very_low_crime_level",               sound: "police_e03.WAV"},
+  {type: "policeman_iam_too_busy_that_talk",             sound: "police_e04.WAV"},
+  {type: "policeman_i_hope_my_work_is_need",             sound: "police_e05.WAV"},
+  {type: "policeman_city_not_safety",                    sound: "police_e06.WAV"},
+  {type: "policeman_need_workers",                       sound: "police_e07.WAV"},
+  {type: "policeman_enemies_are_coming",                 sound: "police_e08.WAV"},
+  {type: "policeman_desease_can_start_at_any_moment",    sound: "police_g01.WAV"},
+  {type: "policeman_no_food_in_city",                    sound: "police_g02.WAV"},
+  {type: "policeman_no_army",                            sound: "police_g03.WAV"},
+  {type: "policeman_need_more_workers",                  sound: "police_g04.WAV"},
+  {type: "policeman_gods_are_angry",                     sound: "police_g05.WAV"},
+  {type: "policeman_no_army_2",                          sound: "police_g06.wav"},
+  {type: "policeman_much_unemployments",                 sound: "police_g07.WAV"},
+  {type: "policeman_low_entertainment",                  sound: "police_g08.WAV"},
+  {type: "policeman_city_is_good",                       sound: "police_g09.WAV"},
+  {type: "policeman_city_is_amazing",                    sound: "police_g10.WAV"},
   // priest_bast
   {type: "priest_bast_festival",                         sound: "priest_bast_e01.wav"},
   {type: "priest_bast_people_could_turn_to_crime",       sound: "priest_bast_e02.wav"},
@@ -310,7 +310,7 @@ walker_sounds = [
   {type: "priest_seth_low_entertainment",                sound: "priest_seth_g08.wav"},
   {type: "priest_seth_city_is_ok",                       sound: "priest_seth_g09.wav"},
   {type: "priest_seth_city_is_amazing",                  sound: "priest_seth_g10.wav"},
- // reed
+  // reed
   {type: "reed_to_the_marsh_i_march",                    sound: "REED_E01.WAV"},
   {type: "reed_will_make_some_fine_papyrus",             sound: "REED_E02.WAV"},
   // robber
@@ -357,18 +357,18 @@ walker_sounds = [
   {type: "taxman_low_entertainment",                     sound: "taxman_g08.wav"},
   {type: "taxman_city_is_ok",                            sound: "taxman_g09.wav"},
   {type: "taxman_city_is_amazing",                       sound: "taxman_g10.wav"},
- // teacher
- {type: "teacher_festival_info", sound: "teacher_e01.wav"},
- {type: "teacher_desease_can_start_at_any_moment", sound: "teacher_g01.wav"},
- {type: "teacher_no_food_in_city", sound: "teacher_g02.wav"},
- {type: "teacher_city_not_safety", sound: "teacher_g03.wav"},
- {type: "teacher_need_workers", sound: "teacher_g04.wav"},
- {type: "teacher_gods_are_angry", sound: "teacher_g05.wav"},
- {type: "teacher_low_rating", sound: "teacher_g06.wav"},
- {type: "teacher_much_unemployments", sound: "teacher_g07.wav"},
- {type: "teacher_city_is_good", sound: "teacher_g08.wav"},
- {type: "teacher_city_much_better", sound: "teacher_g09.wav"},
- {type: "teacher_city_is_amazing", sound: "teacher_g10.wav"},
+  // teacher
+  {type: "teacher_festival_info",                        sound: "teacher_e01.wav"},
+  {type: "teacher_desease_can_start_at_any_moment",      sound: "teacher_g01.wav"},
+  {type: "teacher_no_food_in_city",                      sound: "teacher_g02.wav"},
+  {type: "teacher_city_not_safety",                      sound: "teacher_g03.wav"},
+  {type: "teacher_need_workers",                         sound: "teacher_g04.wav"},
+  {type: "teacher_gods_are_angry",                       sound: "teacher_g05.wav"},
+  {type: "teacher_low_rating",                           sound: "teacher_g06.wav"},
+  {type: "teacher_much_unemployments",                   sound: "teacher_g07.wav"},
+  {type: "teacher_city_is_good",                         sound: "teacher_g08.wav"},
+  {type: "teacher_city_much_better",                     sound: "teacher_g09.wav"},
+  {type: "teacher_city_is_amazing",                      sound: "teacher_g10.wav"},
   // thief
   {type: "thief_maybe_stealing_will_get_attention",      sound: "thief_e01.wav"},
   {type: "thief_i_take_what_i_want",                     sound: "thief_e02.wav"},
